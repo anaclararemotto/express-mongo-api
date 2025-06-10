@@ -1,4 +1,5 @@
 // import http from "http";
+import "dotenv/config";
 import app from "./src/app.js";
 
 //tudo maiusculo pois sao infos estaticas, q nao muda
